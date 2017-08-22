@@ -1,0 +1,10 @@
+c:\Users\tm731\Documents\Visual Studio 2015\Projects\Ptt-Crawl\Ptt-Crawl\bin\Debug\Ptt-Crawl.exe.config
+c:\Users\tm731\Documents\Visual Studio 2015\Projects\Ptt-Crawl\Ptt-Crawl\bin\Debug\Ptt-Crawl.exe
+c:\Users\tm731\Documents\Visual Studio 2015\Projects\Ptt-Crawl\Ptt-Crawl\bin\Debug\Ptt-Crawl.pdb
+c:\Users\tm731\Documents\Visual Studio 2015\Projects\Ptt-Crawl\Ptt-Crawl\bin\Debug\HtmlAgilityPack.dll
+c:\Users\tm731\Documents\Visual Studio 2015\Projects\Ptt-Crawl\Ptt-Crawl\bin\Debug\Newtonsoft.Json.dll
+c:\Users\tm731\Documents\Visual Studio 2015\Projects\Ptt-Crawl\Ptt-Crawl\bin\Debug\HtmlAgilityPack.pdb
+c:\Users\tm731\Documents\Visual Studio 2015\Projects\Ptt-Crawl\Ptt-Crawl\bin\Debug\Newtonsoft.Json.xml
+c:\Users\tm731\Documents\Visual Studio 2015\Projects\Ptt-Crawl\Ptt-Crawl\obj\Debug\Ptt-Crawl.exe
+c:\Users\tm731\Documents\Visual Studio 2015\Projects\Ptt-Crawl\Ptt-Crawl\obj\Debug\Ptt-Crawl.pdb
+c:\Users\tm731\Documents\Visual Studio 2015\Projects\Ptt-Crawl\Ptt-Crawl\obj\Debug\Ptt-Crawl.csprojResolveAssemblyReference.cache
